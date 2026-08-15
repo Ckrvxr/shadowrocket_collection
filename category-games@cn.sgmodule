@@ -1,5 +1,5 @@
 #!name=category-games@cn from v2fly
-#!desc=让国内有下载服务器的游戏下载走直连，可以节省大量流量。
+#!desc=让国内有下载服务器的游戏下载走直连，可以节省大量代理节点流量。
 #!homepage=https://github.com/yuumimi/rules
 #!author=yuumimi, v2fly
 
