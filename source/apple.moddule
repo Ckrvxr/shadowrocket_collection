@@ -1,0 +1,7 @@
+#!name=Apple from v2fly
+#!desc=强制 Apple 域名走代理
+#!homepage=https://github.com/yuumimi/rules
+#!author=yuumimi, v2fly
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/yuumimi/rules/release/loon/apple.txt,PROXY

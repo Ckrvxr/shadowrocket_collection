@@ -1,0 +1,7 @@
+#!name=Microsoft from v2fly
+#!desc=强制 Microsoft 域名走代理
+#!homepage=https://github.com/yuumimi/rules
+#!author=yuumimi, v2fly
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/yuumimi/rules/release/loon/microsoft.txt,PROXY
